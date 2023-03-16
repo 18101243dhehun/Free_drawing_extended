@@ -8,7 +8,7 @@ Extended free_drawing by merging Free_drawing and Shape_drawing
 
 ### 기본 화면
 
-![](C:\Users\이대훈\Desktop\basic.png)
+![poster](./basic.png)
 
 ### 키 설명
 
@@ -38,7 +38,7 @@ Extended free_drawing by merging Free_drawing and Shape_drawing
 
 ### 적용 화면
 
-![adopt](C:\Users\이대훈\Desktop\adopt.png)
+![poster](./adopt.png)
 
 ### 
 
